@@ -1,0 +1,3 @@
+C:/Users/Bart/Desktop/Semestrální práce Programko/Paty pokus č2/main/out/build/x64-debug/CMakeFiles/main.dir
+C:/Users/Bart/Desktop/Semestrální práce Programko/Paty pokus č2/main/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bart/Desktop/Semestrální práce Programko/Paty pokus č2/main/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
